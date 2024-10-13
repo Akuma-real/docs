@@ -13,7 +13,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '墨语社',
+        text: '一堆破烂',
         items: [
           { text: '镜像加速', link: '/proxy' },
           { text: '联系我们', link: '/contact' }

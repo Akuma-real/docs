@@ -1,3 +1,9 @@
+---
+prev: false
+next: 
+  text: '联系我们'
+  link: '/contact/' 
+---
 # 公益镜像加速服务使用指南
 
 ## Github加速服务
