@@ -12,7 +12,7 @@ next: false
 
 ## 在提问前您可能需要了解
 
-1. 了解提问的智慧：[提问的智慧](./How-To-Ask-Questions-The-Smart-Way)
+1. 了解提问的智慧：[提问的智慧](./ask)
 
 ## 联系方式
 
