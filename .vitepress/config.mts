@@ -15,7 +15,7 @@ export default defineConfig({
       {
         text: '墨语社',
         items: [
-          { text: '镜像加速', link: '/proxy' }
+          { text: '镜像加速', link: '/proxy' },
           { text: '联系我们', link: '/contact' }
         ]
       }
