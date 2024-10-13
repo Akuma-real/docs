@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "鬼鬼Sama"
+  name: "鬼鬼Samaの小窝"
   text: "这里放着我的一些小破烂。🌍"
   tagline: 本站点由 VitePress 驱动
   actions:
