@@ -1,0 +1,15 @@
+/* .vitepress/theme/var.css */
+/* Lumen主题自定义变量 */
+:root {
+  /* 公告栏样式 */
+  --lm-Notice-bg: var(--vp-button-alt-bg);
+  --lm-Notice-bg-hover: var(--vp-c-brand-soft);
+  
+  /* 首页按钮图标 */
+  --lm-button-author: url('https://avatars.githubusercontent.com/u/1?v=4');
+  --lm-button-logo: url('https://halo.run/logo');
+  
+  /* 自定义品牌色彩 */
+  --lm-primary-color: #646cff;
+  --lm-primary-hover: #535bf2;
+}
