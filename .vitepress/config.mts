@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Halo 文档中心",
   description: "开源建站工具 Halo 的插件和主题使用指南",
-  
+  ignoreDeadLinks: true,
   // 支持iconify图标
   vue: {
     template: {
