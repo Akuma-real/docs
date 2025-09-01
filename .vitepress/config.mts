@@ -85,15 +85,9 @@ export default defineConfig({
       provider: 'local'
     },
 
-    // 页脚配置
-    footer: {
-      message: '基于 <a href="https://vitepress.dev/">VitePress</a> 构建',
-      copyright: 'Copyright © 2025 Halo 文档中心'
-    },
-
     // 编辑链接
     editLink: {
-      pattern: 'https://github.com/your-repo/edit/main/docs/:path',
+      pattern: 'https://github.com/Akuma-real/docs/edit/main/:path',
       text: '在 GitHub 上编辑此页面'
     },
 
