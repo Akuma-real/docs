@@ -31,7 +31,6 @@ export default defineConfig({
               text: '言答Issue插件',
               collapsed: false,
               items: [
-                { text: '总览', link: '/plugins/issue/index' },
                 { text: '插件介绍与功能预览', link: '/plugins/issue/插件介绍与功能预览' },
                 { text: '使用说明', link: '/plugins/issue/使用' }
               ]
